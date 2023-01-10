@@ -1,0 +1,17 @@
+.blue {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+.red {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+
+.button {
+    width: 120px;
+    height: 70px;
+    background-color: pink;
+}
